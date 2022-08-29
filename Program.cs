@@ -1,0 +1,12 @@
+﻿System.Console.WriteLine("Cidades");
+System.Console.WriteLine();
+System.Console.WriteLine("Cananéia");
+System.Console.WriteLine("Iguape");
+System.Console.WriteLine("Ilha Comprida");
+System.Console.WriteLine("Itanhaém");
+System.Console.WriteLine("Mongaguá");
+System.Console.WriteLine("Peruíbe");
+System.Console.WriteLine("Praia Grande");
+System.Console.WriteLine();
+System.Console.WriteLine("Pressione uma tecla para fechar...");
+Console.ReadKey();
